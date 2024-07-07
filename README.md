@@ -1,1 +1,1 @@
-# .github
+# Novice Lab
